@@ -67,6 +67,10 @@ ollama list
 Modo de sesión interactiva (recomendado, consume menos recursos que la interfaz web):
 
 ```bash
+ollama run qwen2.5:0.5b (este va a ser el de nuestro lab el otro va a fallar en las PC)
+
+
+
 ollama run deepseek-r1:7b
 ```
 
