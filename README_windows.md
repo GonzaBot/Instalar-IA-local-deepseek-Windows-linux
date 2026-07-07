@@ -60,6 +60,9 @@ Si Windows Defender SmartScreen tira una advertencia al abrir el instalador (por
 La CLI de Ollama es idéntica en todas las plataformas — el mismo comando que en Linux:
 
 ```powershell
+ollama run qwen2.5:0.5b (este va a ser el de nuestro lab el otro va a fallar en las PC)
+
+
 ollama pull deepseek-r1:7b
 ```
 
